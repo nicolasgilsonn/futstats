@@ -111,5 +111,5 @@ function ItemJogador(jogador) {
 
     jogadorElement.innerHTML = content
 
-    document.querySelector("#jogadores").appendChild(jogadorElement)
+    document.querySelector("#lista-de-jogadores").appendChild(jogadorElement)
 }
